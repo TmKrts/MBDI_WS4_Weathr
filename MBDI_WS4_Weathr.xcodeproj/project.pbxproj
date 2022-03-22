@@ -51,10 +51,8 @@
 		E30099BF27EA02CA00578C33 /* MBDI_WS4_Weathr */ = {
 			isa = PBXGroup;
 			children = (
-				E30099C027EA02CA00578C33 /* MBDI_WS4_WeathrApp.swift */,
+				E352D8BE27EA07B4006AADD6 /* Resources */,
 				E30099C227EA02CA00578C33 /* ContentView.swift */,
-				E30099C427EA02CA00578C33 /* Assets.xcassets */,
-				E30099C627EA02CA00578C33 /* Preview Content */,
 			);
 			path = MBDI_WS4_Weathr;
 			sourceTree = "<group>";
@@ -65,6 +63,16 @@
 				E30099C727EA02CA00578C33 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		E352D8BE27EA07B4006AADD6 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E30099C027EA02CA00578C33 /* MBDI_WS4_WeathrApp.swift */,
+				E30099C427EA02CA00578C33 /* Assets.xcassets */,
+				E30099C627EA02CA00578C33 /* Preview Content */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
